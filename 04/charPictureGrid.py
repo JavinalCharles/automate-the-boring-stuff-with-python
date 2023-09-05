@@ -5,8 +5,6 @@ def printPictureGrid(pictureGrid):
 		for x in range(len(pictureGrid[y])):
 			print(pictureGrid[y][x], end="")
 		print()
-		
-
 
 if __name__ == "__main__":
 	grid = [
